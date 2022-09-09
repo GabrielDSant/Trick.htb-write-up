@@ -73,9 +73,8 @@ ffuf -w /home/sant/wordlist/SecLists/Fuzzing/LFI/LFI-Jhaddix.txt:FUZZ -u http://
 
 ```
 Depois que o primeiro resultado der positivo pode parar a ferramenta (CTRL + C) QUE 1 TÁ BOM :)
-```
-
 ![Untitled 1](https://user-images.githubusercontent.com/32500664/188253769-914dbf3a-8599-48b9-bab1-9299e6ff3a41.png)
+```
 
 Temos um nome de um usuário…
 
